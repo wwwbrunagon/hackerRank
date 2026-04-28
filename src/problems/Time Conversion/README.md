@@ -1,7 +1,7 @@
 ####  Problem decomposition (how to think)
 You are not “converting time”. You are:
 
-1. Parsing a fixed-format string: `hh:mm:ssAM | PM``
+1. Parsing a fixed-format string: `hh:mm:ssAM | PM`
 
 2. Applying two deterministic rules:
   - `AM`: 
